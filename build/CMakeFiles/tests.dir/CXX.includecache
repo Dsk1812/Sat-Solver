@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/treeNode.h
+string
+-
+
+/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/tseitinTransformer.cc
+tseitinTransformer.h
+/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/tseitinTransformer.h
+
+/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/tseitinTransformer.h
+vector
+-
+map
+-
+string
+-
+stdexcept
+-
+sstream
+-
+iostream
+-
+stack
+-
+treeNode.h
+/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/treeNode.h
+

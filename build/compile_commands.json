@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/build",
+  "command": "/usr/bin/c++  -I\"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/minisat\" -std=c++11 -Wall  -o CMakeFiles/tests.dir/test.cpp.o -c \"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/test.cpp\"",
+  "file": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/test.cpp"
+},
+{
+  "directory": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/build",
+  "command": "/usr/bin/c++  -I\"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/minisat\" -std=c++11 -Wall  -o CMakeFiles/tests.dir/tseitinTransformer.cc.o -c \"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/tseitinTransformer.cc\"",
+  "file": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/tseitinTransformer.cc"
+},
+{
+  "directory": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/build",
+  "command": "/usr/bin/c++  -I\"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/minisat\" -std=c++11 -Wall  -o CMakeFiles/tests.dir/satSolver.cc.o -c \"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/satSolver.cc\"",
+  "file": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/satSolver.cc"
+},
+{
+  "directory": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/build",
+  "command": "/usr/bin/c++  -I\"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/minisat\" -std=c++11 -Wall  -o CMakeFiles/pa2.dir/main.cc.o -c \"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/main.cc\"",
+  "file": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/main.cc"
+},
+{
+  "directory": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/build",
+  "command": "/usr/bin/c++  -I\"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/minisat\" -std=c++11 -Wall  -o CMakeFiles/pa2.dir/tseitinTransformer.cc.o -c \"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/tseitinTransformer.cc\"",
+  "file": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/tseitinTransformer.cc"
+},
+{
+  "directory": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/build",
+  "command": "/usr/bin/c++  -I\"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/minisat\" -std=c++11 -Wall  -o CMakeFiles/pa2.dir/satSolver.cc.o -c \"/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/satSolver.cc\"",
+  "file": "/home/venom/Desktop/c prgrams/skeleton-master-pa2/pa2/satSolver.cc"
+}
+]
